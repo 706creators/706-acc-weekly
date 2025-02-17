@@ -13,3 +13,5 @@
 
 Youtube：<https://youtu.be/YRJFj6ku63E?si=WyXSC_-PqHxkZJj0>
 Bilibili：<https://b23.tv/WiRBqJs>
+
+Notion: <https://creators706.notion.site/706-acc-Weekly-1907c491298780449677e291bb3da10a>
