@@ -45,7 +45,7 @@
 
 - Author: 星 Sir
 - Youtube：<https://youtu.be/ijaZEnB0s_s>
-Bilibili：<https://www.bilibili.com/video/BV1P9P1euE66>
+- Bilibili：<https://www.bilibili.com/video/BV1P9P1euE66>
 
 ### #8 使用 Rig 进行 AI 硬件开发
 
