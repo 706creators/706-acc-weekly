@@ -14,7 +14,7 @@
 | 🇫🇷 巴黎42 | 勾勾 | - |  |
 | 🌍 world | 潇迪 | - |  |
 
-[📝 提交你想分享的内容](https://github.com/706-acc/706-acc-weekly/issues/new)
+[📝 提交你想分享的内容](https://github.com/706creators/706-acc-weekly/issues/new?template=topic-suggestion.md)
 
 ---
 
