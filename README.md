@@ -67,5 +67,12 @@
 - 🎥 Youtube：<https://youtu.be/I9zuOYELttA?si=VDaERN88iqxmNcgv>
 - 📺 Bilibili：<https://www.bilibili.com/video/BV1P9P1euE66>
 
+### #9 🧠  DeFAI 在 Sui 生态的机遇与发展
+
+- Author: 小派
+- 🎥 Youtube：<https://www.youtube.com/watch?v=7FCaMYA6qbo>
+- 📺 Bilibili：<https://www.bilibili.com/video/BV1rKKMeYEVQ/>
+
+
 ---
 📄 Notion Page : <https://creators706.notion.site/706-acc-Weekly-1907c491298780449677e291bb3da10a>
