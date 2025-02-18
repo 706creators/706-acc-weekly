@@ -49,11 +49,6 @@
 - 🎥 Youtube：<https://youtu.be/O4SNJRzJw3s>
 - 📺 Bilibili：<https://www.bilibili.com/video/BV1EhwqeNEDx/>
 
-### #6 🧠 Eliza 原理解析（下）：Agent 工具调用
-
-- Author: 0xhhh
-- 🎥 Youtube：<https://youtu.be/O4SNJRzJw3s>
-- 📺 Bilibili：<https://www.bilibili.com/video/BV1EhwqeNEDx/>
 
 ### #7 💎 Eliza on Sui｜深入解析 Plugin-Sui 与 Swap 集成
 
@@ -65,7 +60,7 @@
 
 - Author: Archer
 - 🎥 Youtube：<https://youtu.be/I9zuOYELttA?si=VDaERN88iqxmNcgv>
-- 📺 Bilibili：<https://www.bilibili.com/video/BV1P9P1euE66>
+- 📺 Bilibili：<https://b23.tv/z55wWM0>
 
 ### #9 🧠  DeFAI 在 Sui 生态的机遇与发展
 
