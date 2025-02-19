@@ -9,9 +9,9 @@
 | 🧠 Eliza RAG: knowlege & memory  | 星sir | 2025.2.19 |  |
 | 🔒 Sui Security  | 皮卡 | - |  |
 | 🎮 Sui Game Engine  | henry | - |  |
-| 🤖 Ai Agent  | 真源 | - | 5~10期 |
+| 🤖 Ai Agent #1  | 真源 | - | 2025.2.28 |
 | 🐦 Eliza Twitter Bot | 星sir | - |  |
-| 🇫🇷 巴黎42 | 勾勾 | - |  |
+| 🇫🇷 巴黎42 | 勾勾 | 2025.2.26 |  |
 | 🌍 world | 潇迪 | - |  |
 
 [📝 提交你想分享的内容](https://github.com/706creators/706-acc-weekly/issues/new?template=topic-suggestion.md)
