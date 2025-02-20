@@ -11,7 +11,7 @@
 | 🎮 Dubhe AI Agent  | henry | 3.15 去问一下 |  |
 | 🤖 Ai Agent  | 真源 | - | 5~10期 |
 | 🐦 Eliza Twitter Bot | 星sir | - |  |
-| 🇫🇷 巴黎42 | 勾勾 | - |  |
+| 🇫🇷 巴黎42 | 勾勾 | 2025.2.26 |  |
 | 🌍 world | 潇迪 | - |  |
 
 [📝 提交你想分享的内容](https://github.com/706creators/706-acc-weekly/issues/new?template=topic-suggestion.md)
@@ -71,9 +71,8 @@
 ### #10 🧠  Eliza 入门: Eliza RAG 
 
 - Author: 星 Sir
-- 🎥 Youtube：<https://www.youtube.com/watch?v=7FCaMYA6qbo>
-- 📺 Bilibili：<https://www.bilibili.com/video/BV1rKKMeYEVQ/>
-
+- 🎥 Youtube：<https://youtu.be/X16xm_3vPM4>
+- 📺 Bilibili：<https://www.bilibili.com/video/BV1PoAreoEXE/>
 
 ---
 📄 Notion Page : <https://creators706.notion.site/706-acc-Weekly-1907c491298780449677e291bb3da10a>
