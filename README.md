@@ -6,9 +6,9 @@
 
 | 分享主题 | 分享人 | 分享时间 | 其他 |
 | --- | --- | --- | --- |
-| 🧠 Eliza RAG: knowlege & memory  | 星sir | - |  |
 | 🔒 Sui Security  | 皮卡 | - |  |
-| 🎮 Sui Game Engine  | henry | - |  |
+| 🎮 Dubhe  | henry | - | 3.15 去问一下 |
+| 🎮 Dubhe AI Agent  | henry | 3.15 去问一下 |  |
 | 🤖 Ai Agent  | 真源 | - | 5~10期 |
 | 🐦 Eliza Twitter Bot | 星sir | - |  |
 | 🇫🇷 巴黎42 | 勾勾 | - |  |
@@ -65,6 +65,12 @@
 ### #9 🧠  DeFAI 在 Sui 生态的机遇与发展
 
 - Author: 小派
+- 🎥 Youtube：<https://www.youtube.com/watch?v=7FCaMYA6qbo>
+- 📺 Bilibili：<https://www.bilibili.com/video/BV1rKKMeYEVQ/>
+
+### #10 🧠  Eliza 入门: Eliza RAG 
+
+- Author: 星 Sir
 - 🎥 Youtube：<https://www.youtube.com/watch?v=7FCaMYA6qbo>
 - 📺 Bilibili：<https://www.bilibili.com/video/BV1rKKMeYEVQ/>
 
