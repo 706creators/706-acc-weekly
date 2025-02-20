@@ -6,12 +6,12 @@
 
 | 分享主题 | 分享人 | 分享时间 | 其他 |
 | --- | --- | --- | --- |
-| 🔒 Sui Security  | 皮卡 | - |  |
+| 🔒 Sui Security  | 皮卡 | 2.26 |  |
 | 🎮 Dubhe  | henry | - | 3.15 去问一下 |
-| 🎮 Dubhe AI Agent  | henry | 3.15 去问一下 |  |
+| 🎮 Dubhe AI Agent  | henry | - |  3.15 去问一下 |
 | 🤖 Ai Agent  | 真源 | - | 5~10期 |
 | 🐦 Eliza Twitter Bot | 星sir | - |  |
-| 🇫🇷 巴黎42 | 勾勾 | 2025.2.26 |  |
+| 🇫🇷 巴黎42 | 勾勾 | - |  |
 | 🌍 world | 潇迪 | - |  |
 
 [📝 提交你想分享的内容](https://github.com/706creators/706-acc-weekly/issues/new?template=topic-suggestion.md)
