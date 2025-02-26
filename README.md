@@ -6,7 +6,6 @@
 
 | 分享主题 | 分享人 | 分享时间 | 其他 |
 | --- | --- | --- | --- |
-| 🔒 Sui Security  | 皮卡 | 2.26 |  |
 | 🎮 Dubhe  | henry | - | 3.15 去问一下 |
 | 🎮 Dubhe AI Agent  | henry | - |  3.15 去问一下 |
 | 🤖 Ai Agent  | 真源 | - | 5~10期 |
@@ -73,6 +72,12 @@
 - Author: 星 Sir
 - 🎥 Youtube：<https://youtu.be/X16xm_3vPM4>
 - 📺 Bilibili：<https://www.bilibili.com/video/BV1PoAreoEXE/>
+
+### #11 Security On Sui
+
+- Author: 皮卡
+- 🎥 Youtube：<https://youtu.be/FfWc587lYAU>
+- 📺 Bilibili：<https://www.bilibili.com/video/BV1ZeP7e7Exh/>
 
 ---
 📄 Notion Page : <https://creators706.notion.site/706-acc-Weekly-1907c491298780449677e291bb3da10a>
