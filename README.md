@@ -6,12 +6,11 @@
 
 | 分享主题 | 分享人 | 分享时间 | 其他 |
 | --- | --- | --- | --- |
-| 🎮 Dubhe  | henry | - | 3.15 去问一下 |
-| 🎮 Dubhe AI Agent  | henry | - |  3.15 去问一下 |
 | 🤖 Ai Agent  | 真源 | - | 5~10期 |
-| 🐦 Eliza Twitter Bot | 星sir | - |  |
 | 🇫🇷 巴黎42 | 勾勾 | - |  |
 | 🌍 world | 潇迪 | - |  |
+| 🎮 Dubhe  | henry | - | 3.15 去问一下 |
+| 🎮 Dubhe AI Agent  | henry | - |  3.15 去问一下 |
 
 [📝 提交你想分享的内容](https://github.com/706creators/706-acc-weekly/issues/new?template=topic-suggestion.md)
 
@@ -42,12 +41,11 @@
 - 🎥 Youtube：<https://youtu.be/MWH-vl3Q9mM>
 - 📺 Bilibili：<https://b23.tv/Iuq4Y9j>
 
-### #5 🧠 Eliza 原理解析（上）：Agent 工具调用 
+### #5 🧠 Eliza 原理解析（上）：Agent 工具调用
 
 - Author: 0xhhh
 - 🎥 Youtube：<https://youtu.be/O4SNJRzJw3s>
 - 📺 Bilibili：<https://www.bilibili.com/video/BV1EhwqeNEDx/>
-
 
 ### #7 💎 Eliza on Sui｜深入解析 Plugin-Sui 与 Swap 集成
 
@@ -67,7 +65,7 @@
 - 🎥 Youtube：<https://www.youtube.com/watch?v=7FCaMYA6qbo>
 - 📺 Bilibili：<https://www.bilibili.com/video/BV1rKKMeYEVQ/>
 
-### #10 🧠  Eliza 入门: Eliza RAG 
+### #10 🧠  Eliza 入门: Eliza RAG
 
 - Author: 星 Sir
 - 🎥 Youtube：<https://youtu.be/X16xm_3vPM4>
@@ -79,5 +77,18 @@
 - 🎥 Youtube：<https://youtu.be/FfWc587lYAU>
 - 📺 Bilibili：<https://www.bilibili.com/video/BV1ZeP7e7Exh/>
 
+### #12 零基础搭建 AI Agent #1 ｜说干就干，先做一个再说
+
+- Author: 真源
+- 🎥 Youtube：<https://youtu.be/78kbU6DuClo>
+- 📺 Bilibili：<https://www.bilibili.com/video/BV18b9XYGEo3/>
+
+### #13 ：AI Agent 入门｜用 Eliza 打造个性化 Twitter Bot
+
+- Author: 皮卡
+- 🎥 Youtube：<https://youtu.be/FfWc587lYAU>
+- 📺 Bilibili：<https://www.bilibili.com/video/BV1LhQWYhEtL/>
+
 ---
 📄 Notion Page : <https://creators706.notion.site/706-acc-Weekly-1907c491298780449677e291bb3da10a>
+
