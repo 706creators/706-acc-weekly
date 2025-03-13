@@ -85,7 +85,7 @@
 
 ### #13 ：AI Agent 入门｜用 Eliza 打造个性化 Twitter Bot
 
-- Author: 皮卡
+- Author: 星 Sir
 - 🎥 Youtube：<https://youtu.be/FfWc587lYAU>
 - 📺 Bilibili：<https://www.bilibili.com/video/BV1LhQWYhEtL/>
 
