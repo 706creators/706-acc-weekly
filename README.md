@@ -7,10 +7,8 @@
 | 分享主题 | 分享人 | 分享时间 | 其他 |
 | --- | --- | --- | --- |
 | 🤖 Ai Agent  | 真源 | - | 5~10期 |
-| 🇫🇷 巴黎42 | 勾勾 | - |  |
 | 🌍 world | 潇迪 | - |  |
-| 🎮 Dubhe  | henry | - | 3.15 去问一下 |
-| 🎮 Dubhe AI Agent  | henry | - |  3.15 去问一下 |
+| 🎮 Dubhe AI Agent  | henry | - |  4月底 |
 
 [📝 提交你想分享的内容](https://github.com/706creators/706-acc-weekly/issues/new?template=topic-suggestion.md)
 
@@ -83,12 +81,37 @@
 - 🎥 Youtube：<https://youtu.be/78kbU6DuClo>
 - 📺 Bilibili：<https://www.bilibili.com/video/BV18b9XYGEo3/>
 
-### #13 ：AI Agent 入门｜用 Eliza 打造个性化 Twitter Bot
+### #13 AI Agent 入门｜用 Eliza 打造个性化 Twitter Bot
 
 - Author: 星 Sir
 - 🎥 Youtube：<https://youtu.be/FfWc587lYAU>
 - 📺 Bilibili：<https://www.bilibili.com/video/BV1LhQWYhEtL/>
 
+
+### #14 MCP 入门实战｜从原理到实现一个 MCP Client
+
+- Author: Kai
+- 🎥 Youtube：<https://youtu.be/3DeEjKfKV_Q>
+- 📺 Bilibili：<https://www.bilibili.com/video/BV1NRQxYXEuc/>
+
+### #15 零基础搭建 AI Agent #2 ｜掌握核心工具，轻松上手
+
+- Author: 真源
+- 🎥 Youtube：<https://youtu.be/_IO7l7EBTsA>
+- 📺 Bilibili：<https://www.bilibili.com/video/BV11AorY3EBB/>
+
+### #16 42 是什么？我在巴黎“网吧”学编程的故事
+
+- Author: 钩钩
+- 🎥 Youtube：<https://youtu.be/YR8qwgX75RI>
+- 📺 Bilibili：<https://b23.tv/kaLt2Ri>
+
+### #17 MCP 应该学什么
+
+- Author: MCP 共学 all 
+- 🎥 Youtube：<https://youtu.be/sBD75irT5jU>
+- 📺 Bilibili：<https://www.bilibili.com/video/BV1dHZiY2ETg>
+
+
 ---
 📄 Notion Page : <https://creators706.notion.site/706-acc-Weekly-1907c491298780449677e291bb3da10a>
-
